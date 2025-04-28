@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Muhaberko007
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning programming
 
 
 <!---
